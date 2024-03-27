@@ -177,9 +177,8 @@ public class raiz {
         System.out.println("O valor de x1 é:" + x1);
         System.out.println("O valor de x2 é:" + x2);
 }}
-12. Faça um programa que calcule e mostre a
-tabuada de multiplicação de um número
-digitado pelo usuário
+12. Faça um programa que calcule e mostre a tabuada de multiplicação de um número
+digitado pelo usuário.
 Algoritimo:
 import java.util.Scanner;
 public class calculadora {
